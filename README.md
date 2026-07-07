@@ -265,30 +265,23 @@ Working on industry-oriented VLSI projects focusing on RTL implementation, verif
 
 ---
 
-# GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanmukh-patnala&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmukh-patnala&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmukh-patnala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmukh-patnala&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmukh-patnala&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Shanmukh-patnala&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shanmukh-patnala&theme=algolia&no-frame=true&margin-w=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Shanmukh-patnala&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
