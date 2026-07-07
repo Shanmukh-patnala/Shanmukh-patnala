@@ -3,7 +3,7 @@
 <!-- =============================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,30:6D28D9,60:7C3AED,100:9333EA&text=Leela%20Shanmukh%20Yagneek%20Patnala&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,40:6D28D9,70:7C3AED,100:9333EA&text=Shanmukh%20Patnala&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 </p>
 
 <p align="center">
