@@ -1,27 +1,28 @@
 <!-- =============================== -->
-<!--         GITHUB PROFILE          -->
+<!--        SHANMUKH PATNALA         -->
+<!--       GitHub Profile v3.0       -->
 <!-- =============================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,40:6D28D9,70:7C3AED,100:9333EA&text=Shanmukh%20Patnala&fontSize=55&fontAlignY=40&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineer;VLSI+%7C+RTL+Design+%7C+Functional+Verification;SystemVerilog+%7C+UVM+%7C+Verilog+HDL;RISC-V+Processor+Developer;Open+Source+Contributor;Always+Learning+Always+Building"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,30:6D28D9,60:7C3AED,100:9333EA&text=Shanmukh%20Patnala&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 </p>
 
 <p align="center">
 
-![](https://img.shields.io/badge/ECE-Engineer-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/VLSI-Design-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/UVM-Verification-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/RTL-Development-5B21B6?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering;RTL+Design+Engineer;Functional+Verification+Engineer;SystemVerilog+%7C+UVM+Learner;RISC-V+Processor+Developer;AXI4-Lite+Protocol+Designer;Digital+System+Designer;Open+Source+VLSI+Developer"/>
 
 </p>
 
 <p align="center">
 
-![](https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-6D28D9?style=flat-square)
+![](https://img.shields.io/badge/RTL-Design-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/SystemVerilog-UVM-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Verilog-HDL-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/RISC--V-Processor-4F46E5?style=for-the-badge)
+
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Shanmukh-patnala">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -32,11 +33,7 @@
 </a>
 
 <a href="mailto:leelashanmukh06@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Shanmukh-patnala">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -45,33 +42,45 @@
 
 ![](https://komarev.com/ghpvc/?username=Shanmukh-patnala&style=flat-square&color=7C3AED)
 ![](https://img.shields.io/github/followers/Shanmukh-patnala?style=flat-square&color=6D28D9)
-![](https://img.shields.io/github/stars/Shanmukh-patnala?affiliations=OWNER&style=flat-square&color=4F46E5)
+![](https://img.shields.io/github/stars/Shanmukh-patnala?style=flat-square&color=4F46E5)
 
 </p>
 
 ---
 
-# About Me
+# 👋 About Me
 
-I am an **Electronics & Communication Engineering** student with a strong passion for **RTL Design, Functional Verification, Processor Architecture, and Digital System Design**. My work focuses on building production-quality Verilog designs while following industry verification methodologies using **SystemVerilog and UVM**.
+I am an **Electronics & Communication Engineering (ECE)** student passionate about **RTL Design, Functional Verification, Computer Architecture, ASIC Design, and FPGA Development**.
 
-My long-term objective is to become a **VLSI Design & Verification Engineer**, contributing to next-generation semiconductor products. Alongside hardware engineering, I enjoy exploring **Python automation**, AI-assisted engineering workflows, and scalable product development.
+My primary focus is designing industry-oriented digital hardware using **Verilog HDL**, while continuously expanding my expertise in **SystemVerilog**, **UVM**, and modern ASIC verification methodologies.
 
-### Open To
-
-- RTL Design
-- Functional Verification (SystemVerilog/UVM)
-- ASIC/FPGA Development
-- Digital Design Engineering
-- Processor Architecture
-- Open Source Collaboration
-- AI-assisted Engineering Tools
+I enjoy transforming digital design concepts into modular, reusable RTL implementations, backed by structured verification and professional documentation.
 
 ---
 
-# Tech Stack
+## 🎯 Career Objective
 
-## Languages
+To build a successful career as an **RTL Design / Functional Verification Engineer**, contributing to next-generation semiconductor products through robust hardware design, verification, and continuous learning.
+
+---
+
+# 🚀 Current Focus
+
+- RTL Design
+- Functional Verification
+- SystemVerilog
+- UVM
+- RISC-V Processor Design
+- AXI4-Lite Protocol
+- Design for Test (DFT)
+- FPGA Design Flow
+- ASIC Design Flow
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
 
 <p>
 
@@ -81,23 +90,35 @@ My long-term objective is to become a **VLSI Design & Verification Engineer**, c
 
 </p>
 
-## Frontend
+---
 
-<p>
+## 🔧 Hardware Design
 
-<img src="https://skillicons.dev/icons?i=html,css"/>
+- Verilog HDL
+- RTL Design
+- Digital Logic Design
+- FPGA Design
+- ASIC Design Flow
+- RISC-V ISA
+- AXI4-Lite
+- Design for Test (DFT)
 
-</p>
+---
 
-## Backend & Databases
+## 🧪 Verification
 
-<p>
+- Functional Verification
+- Testbench Development
+- Waveform Debugging
+- Simulation
+- Assertions (Learning)
+- Coverage (Learning)
+- SystemVerilog
+- UVM (Learning)
 
-<img src="https://skillicons.dev/icons?i=python"/>
+---
 
-</p>
-
-## Cloud • DevOps • Tooling
+## ⚙ EDA Tools
 
 <p>
 
@@ -107,186 +128,360 @@ My long-term objective is to become a **VLSI Design & Verification Engineer**, c
 
 </p>
 
----
+Additional Tools
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| Python Automation | ★★★★☆ | Engineering automation scripts |
-| AI Assisted Development | ★★★★☆ | Productivity & code generation |
-| Data Processing | ★★★★☆ | Engineering workflows |
-| ML Fundamentals | ★★★☆☆ | Predictive workflow understanding |
-| Computer Vision | ★★☆☆☆ | Learning |
-| Generative AI | ★★★★☆ | LLM-assisted engineering |
+- GTKWave
+- EPWave
+- Icarus Verilog
+- EDA Playground
 
 ---
 
-# Featured Projects
+# 📈 Skill Matrix
 
-<details>
-<summary><b>PhoenixRV-32 — 32-bit Single-Cycle RISC-V Processor</b></summary>
+| Skill | Level |
+|--------|-------|
+| Verilog HDL | ██████████ |
+| RTL Design | █████████ |
+| Digital Design | █████████ |
+| Functional Verification | ████████ |
+| RISC-V Architecture | ████████ |
+| AXI4-Lite | ████████ |
+| FPGA Development | ███████ |
+| Python | ███████ |
+| SystemVerilog | ██████ |
+| UVM | █████ |
 
-### Overview
+---
 
-A modular RV32I processor built completely in Verilog HDL featuring Program Counter, Register File, ALU, Control Unit, Instruction Memory, Data Memory and Write Back stage.
+# 🤖 Areas of Interest
+
+- RTL Design
+- ASIC Design
+- Functional Verification
+- Processor Architecture
+- FPGA Development
+- Low Power VLSI
+- Design for Test (DFT)
+- AMBA Bus Protocols
+- Computer Architecture
+- AI-assisted Hardware Engineering
+
+---
+# 🚀 Featured Projects
+
+---
+
+<details open>
+<summary><b>🚀 PhoenixRV-32 — 32-bit Single-Cycle RISC-V Processor</b></summary>
+
+### 📖 Overview
+
+Designed and implemented a complete **RV32I Single-Cycle RISC-V Processor** in Verilog HDL with a modular RTL architecture. The processor supports instruction execution, arithmetic and logic operations, branching, load/store instructions, and register-based computation.
 
 | Category | Details |
 |----------|----------|
-| Stack | Verilog HDL, Icarus Verilog, EPWave |
-| Scale | Modular RTL Architecture |
-| Performance | Optimized Single-Cycle Execution |
-| Security | Clean RTL & Verification |
-| Impact | Strong processor architecture portfolio |
-| Repository | https://github.com/Shanmukh-patnala/PhoenixRV-32 |
+| Language | Verilog HDL |
+| Architecture | RV32I Single-Cycle |
+| Verification | Self-written Testbench |
+| Tools | Icarus Verilog, GTKWave, EPWave |
+| Status | ✅ Completed |
 
-Professional Highlights
+### ✨ Key Features
 
-- Modular RTL architecture
-- Complete datapath implementation
-- Custom verification testbenches
-- Waveform validation
-- GitHub documentation
+- 32-bit RV32I Processor
+- Modular RTL Design
+- Program Counter
+- Instruction Memory
+- Register File
+- Immediate Generator
+- ALU & ALU Control
+- Control Unit
+- Data Memory
+- Write Back Logic
+- Waveform Verification
+
+### 🛠 Technologies
+
+`Verilog HDL` `RTL Design` `Computer Architecture` `RISC-V`
+
+🔗 Repository
+
+https://github.com/Shanmukh-patnala/PhoenixRV-32
 
 </details>
 
-<details>
-<summary><b>Clock-Gated Scan Chain Based LBIST Architecture</b></summary>
+---
 
-### Overview
+<details open>
+<summary><b>⚡ Clock-Gated Scan Chain Based LBIST Architecture</b></summary>
 
-Industry-oriented Design-for-Test project implementing Clock Gating, Scan Chain, LFSR, MISR, FSM Controller and Signature Comparator.
+### 📖 Overview
+
+Designed a **Design-for-Test (DFT)** architecture implementing **Clock Gating**, **Scan Chain**, **LFSR**, **MISR**, and **Logic Built-In Self-Test (LBIST)** for low-power testing and high fault coverage.
 
 | Category | Details |
 |----------|----------|
-| Stack | Verilog HDL, EPWave, EDA Playground |
-| Scale | Parameterized RTL |
-| Performance | Reduced dynamic power |
-| Security | Reliable BIST verification |
-| Impact | DFT portfolio project |
-| Repository | https://github.com/Shanmukh-patnala/Clock-Gated-Scan-Chain-Based-LBIST |
+| Language | Verilog HDL |
+| Domain | DFT |
+| Tools | EDA Playground, EPWave |
+| Verification | Self-checking Testbench |
+| Status | ✅ Completed |
 
-Professional Highlights
+### ✨ Key Features
 
-- Clock Gated Scan Chain
+- Clock Gating
+- Scan Chain
+- Scan Flip-Flops
 - LFSR Pattern Generator
-- MISR Response Compaction
+- MISR Signature Analyzer
 - FSM BIST Controller
-- Self-checking Testbench
-- PASS/FAIL Signature Verification
+- Signature Comparator
+- PASS/FAIL Detection
+- Parameterized RTL
+
+### 🛠 Technologies
+
+`Verilog HDL` `DFT` `Low Power VLSI`
+
+🔗 Repository
+
+https://github.com/Shanmukh-patnala/Clock-Gated-Scan-Chain-Based-LBIST
 
 </details>
 
 ---
 
-# Experience
+<details open>
+<summary><b>🔷 AXI4-Lite Multi-Peripheral Slave</b></summary>
 
-## RTL Design & Verification Engineer (Academic Projects)
+### 📖 Overview
+
+Designed and verified a modular **AXI4-Lite Multi-Peripheral Slave** supporting multiple memory-mapped peripherals through an address decoder. The project demonstrates the implementation of the **AMBA AXI4-Lite protocol**, including independent read and write channels with proper handshake signaling.
+
+| Category | Details |
+|----------|----------|
+| Language | Verilog HDL |
+| Protocol | AMBA AXI4-Lite |
+| Verification | Comprehensive Testbench |
+| Tools | Icarus Verilog, GTKWave |
+| Status | ✅ Completed |
+
+### ✨ Key Features
+
+- AXI4-Lite Slave Interface
+- Multiple Peripheral Support
+- Address Decoder
+- Independent Read & Write Channels
+- Ready/Valid Handshake Logic
+- Memory-Mapped Registers
+- Parameterized RTL
+- Modular Architecture
+- Waveform Verification
+
+### 🛠 Technologies
+
+`Verilog HDL` `AXI4-Lite` `RTL Design` `Bus Architecture`
+
+🔗 Repository
+
+https://github.com/Shanmukh-patnala/AXI4-Lite-Multi-Peripheral-Slave
+
+</details>
+
+---
+
+<details>
+<summary><b>🖥 Tiny SoC with RISC-V + Memories (In Progress)</b></summary>
+
+### 📖 Overview
+
+Developing a compact **System-on-Chip (SoC)** integrating a custom RV32I processor with instruction memory, data memory, GPIO, UART, and peripheral interconnects.
+
+### Planned Features
+
+- RV32I Core
+- Instruction Memory
+- Data Memory
+- GPIO
+- UART
+- Timer
+- Bus Interconnect
+- Modular Peripherals
+- FPGA Deployment
+
+### Status
+
+🚧 In Progress
+
+</details>
+
+---
+
+<details>
+<summary><b>🧪 UVM Verification Environment (Coming Soon)</b></summary>
+
+### 📖 Overview
+
+A complete Universal Verification Methodology (UVM) environment for verifying RTL IPs using reusable verification components and coverage-driven verification techniques.
+
+### Planned Features
+
+- UVM Test
+- Environment
+- Agent
+- Driver
+- Monitor
+- Sequencer
+- Sequence Library
+- Scoreboard
+- Coverage Collection
+- Assertions
+
+### Status
+
+📚 Learning & Development
+
+</details>
+
+---
+
+# 📌 Project Roadmap
+
+| Project | Status |
+|---------|--------|
+| PhoenixRV-32 Processor | ✅ Completed |
+| Clock-Gated Scan Chain LBIST | ✅ Completed |
+| AXI4-Lite Multi-Peripheral Slave | ✅ Completed |
+| Tiny SoC with RISC-V | 🚧 In Progress |
+| UVM Verification Environment | 📚 Learning |
+| Cache Controller | 🎯 Planned |
+| SDRAM Controller | 🎯 Planned |
+| UART + SPI + I2C SoC | 🎯 Planned |
+| DMA Controller | 🎯 Planned |
+
+---
+# 💼 Experience
+
+## RTL Design & Verification Projects
 
 **2025 – Present**
 
-Working on industry-oriented VLSI projects focusing on RTL implementation, verification methodologies, processor architecture and Design-for-Test.
+Developing industry-oriented VLSI projects focused on RTL implementation, processor design, bus protocols, Design-for-Test (DFT), and functional verification.
 
 ### Responsibilities
 
 - RTL Design using Verilog HDL
 - Functional Verification
-- Waveform Debugging
 - Testbench Development
-- GitHub Documentation
-- Version Control
+- Waveform Analysis
+- RTL Debugging
+- Git Version Control
+- Technical Documentation
+- Open Source Project Development
 
-**Skills**
+### Technologies
 
-`Verilog` `SystemVerilog` `UVM` `Git` `Python` `Digital Design`
-
----
-
-# Achievements
-
-| Recognition | Details |
-|-------------|---------|
-| RISC-V Processor | Successfully developed a complete 32-bit RV32I processor |
-| DFT Project | Designed Clock-Gated Scan Chain Based LBIST |
-| Open Source | Published engineering projects on GitHub |
-| Continuous Learning | Expanding expertise in UVM and ASIC Verification |
+`Verilog HDL`
+`SystemVerilog`
+`RTL Design`
+`Functional Verification`
+`Git`
+`GitHub`
+`Python`
 
 ---
 
-# Certifications
+# 🏆 Achievements
 
-## Maven Silicon
-
-![](https://img.shields.io/badge/VLSI%20SoC%20Design-Verilog%20HDL-6D28D9?style=for-the-badge)
-
-## Sense Academia
-
-![](https://img.shields.io/badge/Workshop-Verilog-7C3AED?style=for-the-badge)
-
-## AWS
-
-![](https://img.shields.io/badge/In%20Progress-Cloud-4F46E5?style=for-the-badge)
-
-## Oracle
-
-![](https://img.shields.io/badge/Learning-Java-6D28D9?style=for-the-badge)
-
-## NPTEL
-
-![](https://img.shields.io/badge/Future-Certification-7C3AED?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Future-Networking-4F46E5?style=for-the-badge)
+| Achievement | Description |
+|------------|-------------|
+| 🚀 RV32I Processor | Designed and implemented a complete 32-bit Single-Cycle RISC-V Processor |
+| ⚡ DFT Architecture | Developed Clock-Gated Scan Chain Based LBIST Architecture |
+| 🔷 AXI4-Lite | Designed and verified an AXI4-Lite Multi-Peripheral Slave |
+| 🌍 Open Source | Published multiple VLSI projects on GitHub |
+| 📚 Continuous Learning | Currently learning SystemVerilog, UVM, and ASIC Verification |
 
 ---
 
-# Coding Profiles
+# 📜 Certifications
+
+## ✅ Completed
+
+- VLSI SoC Design using Verilog HDL — Maven Silicon
+- FPGA Design Flow using Vivado
+- TCL Scripting in Vivado
+- Business Ethics
+
+---
+
+## 📖 Currently Learning
+
+- SystemVerilog
+- UVM
+- ASIC Verification
+- Computer Architecture
+- Advanced RTL Design
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmukh-patnala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmukh-patnala&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shanmukh-patnala&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmukh-patnala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmukh-patnala&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shanmukh-patnala&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
 
-# Contribution Activity
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shanmukh-patnala&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shanmukh-patnala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -296,7 +491,9 @@ Working on industry-oriented VLSI projects focusing on RTL implementation, verif
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
+
+> **Note:** Enable the GitHub Actions workflow before using this section.
 
 <p align="center">
 
@@ -306,54 +503,82 @@ Working on industry-oriented VLSI projects focusing on RTL implementation, verif
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
   - SystemVerilog
   - UVM
+  - Functional Verification
   - Advanced RTL Design
-  - ASIC Verification
-  - Computer Architecture
+  - ASIC Design Flow
 
 Building:
-  - Multi-cycle RISC-V Processor
+  - Tiny SoC with RISC-V
   - UVM Verification Environment
-  - Advanced DFT Projects
+  - Advanced RTL IPs
 
-Exploring:
-  - FPGA Design
-  - AI Assisted Engineering
-  - Semiconductor Industry Workflows
+Completed:
+  - PhoenixRV-32 Processor
+  - Clock-Gated Scan Chain Based LBIST
+  - AXI4-Lite Multi-Peripheral Slave
 
-Open_To:
-  - RTL Design Roles
-  - Functional Verification Roles
+Future Projects:
+  - Cache Controller
+  - SDRAM Controller
+  - DMA Controller
+  - UART + SPI + I2C SoC
+
+Open To:
+  - RTL Design Internship
+  - Functional Verification Internship
+  - ASIC Design Opportunities
+  - FPGA Development
   - Open Source Collaboration
-  - Internship Opportunities
 ```
 
 ---
 
-# Connect
+# 🤝 Open to Opportunities
+
+I am actively seeking opportunities in:
+
+- RTL Design
+- Functional Verification
+- ASIC Design
+- FPGA Development
+- Processor Architecture
+- Semiconductor Engineering
+
+If you are interested in collaborating or discussing VLSI projects, feel free to connect.
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:leelashanmukh06@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/leela-shanmukh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Shanmukh-patnala">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge"/>
-</a>
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+<p align="center">
+
+> **"Great chips are built one module at a time, and great engineers are built one challenge at a time."**
 
 </p>
 
@@ -361,12 +586,12 @@ Open_To:
 
 <p align="center">
 
-> *"Engineering excellence is achieved through continuous learning, disciplined execution, and relentless curiosity."*
+⭐ If you find my projects interesting, consider giving them a star!
 
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,30:6D28D9,60:7C3AED,100:9333EA"/>
-</p>
 
-<!-- Profile content adapted from resume information. :contentReference[oaicite:0]{index=0} -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:4F46E5,30:6D28D9,60:7C3AED,100:9333EA"/>
+
+</p>
