@@ -1,183 +1,294 @@
-<!-- =============================== -->
-<!--        SHANMUKH PATNALA         -->
-<!-- =============================== -->
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,40:6D28D9,70:7C3AED,100:9333EA&text=Shanmukh%20Patnala&fontSize=55&fontAlignY=40"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineer;VLSI+%7C+RTL+Design+%7C+Functional+Verification;RISC-V+Processor+Developer;SystemVerilog+%7C+UVM+Learner;AI+%26+IoT+Enthusiast"/>
-</p>
+<!-- ========================================== -->
+<!--          SHANMUKH PATNALA • V4.0           -->
+<!--      RTL • Verification • RISC-V • VLSI   -->
+<!-- ========================================== -->
 
 <p align="center">
 
-![](https://img.shields.io/badge/ECE-Core%20Focus-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/VLSI-Design-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/RTL-Development-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/UVM-Learning-5B21B6?style=for-the-badge)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:312E81,50:5B21B6,75:7C3AED,100:A855F7&text=Shanmukh%20Patnala&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/Shanmukh-patnala">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/leela-shanmukh">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:leelashanmukh06@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Electronics+%26+Communication+Engineer;RTL+Design+%7C+Functional+Verification;SystemVerilog+%7C+UVM+Learner;RISC-V+Processor+Developer;AXI4-Lite+Protocol+Designer;Digital+System+Architect;AI+%2B+IoT+Enthusiast"/>
 
 </p>
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=Shanmukh-patnala&style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/followers/Shanmukh-patnala?style=flat-square&color=6D28D9)
-![](https://img.shields.io/github/stars/Shanmukh-patnala?style=flat-square&color=4F46E5)
+<img src="https://komarev.com/ghpvc/?username=Shanmukh-patnala&style=for-the-badge&color=8B5CF6"/>
+
+<img src="https://img.shields.io/github/followers/Shanmukh-patnala?style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/Shanmukh-patnala?style=for-the-badge&color=6366F1"/>
+
+</p>
+
+<p align="center">
+
+![](https://img.shields.io/badge/VLSI-Engineering-5B21B6?style=for-the-badge)
+
+![](https://img.shields.io/badge/RTL-Design-6D28D9?style=for-the-badge)
+
+![](https://img.shields.io/badge/SystemVerilog-UVM-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/RISC--V-Processor-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/AXI4-Lite-AMBA-4338CA?style=for-the-badge)
+
+![](https://img.shields.io/badge/DFT-LBIST-581C87?style=for-the-badge)
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4Ym11aGFvZ3I5d2JweDF0dXFlN3JjN3M4NnV4b2N4ejM5bGlyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQd4Q2G7D2/giphy.gif" width="35"> About Me
 
-I am an **Electronics and Communication Engineering student** with a strong focus on **VLSI Design, RTL Development, Functional Verification, Computer Architecture, and FPGA Design**.
+I am an **Electronics & Communication Engineering student** passionate about **RTL Design, Functional Verification, Computer Architecture, FPGA Design, and ASIC Verification**.
 
-Although I have experience building AI applications and IoT systems, my primary career objective is to become an **RTL Design / Functional Verification Engineer** in the semiconductor industry.
+My goal is to become a world-class **RTL Design & Functional Verification Engineer**, building high-performance semiconductor systems using modern VLSI methodologies.
 
-My portfolio combines:
-
-- ⚡ VLSI & Digital Design
-- 🧪 Verification Methodologies
-- 🏗️ Processor Architecture
-- 🤖 AI Applications
-- 📡 IoT & Embedded Systems
+Alongside hardware engineering, I enjoy building **AI applications**, **embedded systems**, and **IoT solutions**.
 
 ---
 
-# ⚡ Core ECE Skills
+# ⚡ Engineering Snapshot
 
-## Digital Design & VLSI
+| Domain | Expertise |
+|:---|:---|
+| RTL Design | Verilog HDL |
+| Verification | SystemVerilog, UVM |
+| Processor Design | RISC-V |
+| Bus Protocols | AXI4-Lite |
+| DFT | Scan Chain, LBIST |
+| Embedded Systems | ESP32 |
+| AI Development | Python |
+| Tools | Vivado, Git, VS Code |
+
+---
+
+# 🚀 Tech Arsenal
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=verilog"/>
+
+</p>
+
+---
+
+## ⚙️ Hardware & Verification
 
 - Verilog HDL
 - SystemVerilog
 - RTL Design
 - Functional Verification
-- UVM (Learning)
+- UVM *(Learning)*
 - FPGA Design Flow
 - ASIC Design Flow
-- RISC-V Architecture
-- AXI4-Lite Protocol
-- Design for Test (DFT)
+- RISC-V ISA
+- AXI4-Lite
+- DFT
 - Waveform Debugging
 
 ---
 
-## 🛠️ EDA Tools
+## 🛠️ Tools
 
-- Vivado
-- EDA Playground
-- Icarus Verilog
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vivado"/>
+
+</p>
+
 - GTKWave
 - EPWave
-- VS Code
-- Git & GitHub
+- Icarus Verilog
+- EDA Playground
 
 ---
 
-# 🚀 Featured ECE Projects
+# 📊 Skill Matrix
 
-## 🚀 PhoenixRV-32 — 32-bit Single-Cycle RISC-V Processor
+| Skill | Level |
+|:---|:---|
+| Verilog HDL | ██████████ |
+| RTL Design | █████████ |
+| Functional Verification | ████████ |
+| RISC-V | ████████ |
+| AXI4-Lite | ████████ |
+| FPGA | ███████ |
+| Python | ███████ |
+| SystemVerilog | ██████ |
+| UVM | █████ |
 
-- RV32I ISA implementation
-- ALU, Register File, Control Unit
+---
+
+# 🚀 Featured Projects
+
+<details open>
+
+<summary><b>🚀 PhoenixRV-32 • 32-bit Single-Cycle RISC-V Processor</b></summary>
+
+### Highlights
+
+- RV32I ISA Implementation
+- ALU & Control Unit
+- Register File
 - Instruction & Data Memory
-- Modular RTL architecture
-- Complete verification testbench
+- RTL Datapath
+- Verification Testbench
 
-**Stack:** Verilog HDL · RTL Design · Computer Architecture
+**Stack:** `Verilog HDL` `RTL Design` `RISC-V`
 
----
+🔗 Repository:
 
-## ⚡ Clock-Gated Scan Chain Based LBIST
+```text
+https://github.com/Shanmukh-patnala/PhoenixRV-32
+```
 
-- Clock gating
-- Scan chain
-- LFSR and MISR
-- FSM controller
-- Signature verification
-- Low-power DFT techniques
-
-**Stack:** Verilog HDL · DFT · Low-Power VLSI
+</details>
 
 ---
 
-## 🔷 AXI4-Lite Multi-Peripheral Slave
+<details open>
 
-- AXI4-Lite protocol implementation
-- Address decoder
-- Read/write channels
-- Peripheral integration
-- Modular architecture
+<summary><b>⚡ Clock-Gated Scan Chain Based LBIST</b></summary>
 
-**Stack:** Verilog HDL · AMBA AXI4-Lite
+### Highlights
 
----
+- Clock Gating
+- Scan Chain
+- LFSR
+- MISR
+- FSM Controller
+- Signature Comparator
 
-## 📡 Smart Battery Health & End-of-Life Prediction System
+**Stack:** `Verilog HDL` `DFT` `Low Power VLSI`
 
-- ESP32-based monitoring
-- Voltage, current and temperature sensing
-- Bluetooth communication
-- State of Charge estimation
-- Remaining Useful Life prediction
+🔗 Repository:
 
-**Stack:** ESP32 · Python · IoT
+```text
+https://github.com/Shanmukh-patnala/Clock-Gated-Scan-Chain-Based-LBIST
+```
 
----
-
-# 🤖 Additional Software Projects
-
-## 🤖 LUNA — AI Voice Assistant
-
-- Voice interaction
-- Translation and note management
-- Music playback
-- Personality modes
-- PDF support
-
-**Stack:** Python · Speech Recognition · APIs
+</details>
 
 ---
 
-## 🏦 AI Bank Management System
+<details open>
 
-- Multilingual voice banking
-- Gold loan calculator
-- EMI calculator
-- Customer database
-- Live metal pricing
+<summary><b>🔷 AXI4-Lite Multi-Peripheral Slave</b></summary>
 
-**Stack:** Python · APIs · JSON
+### Highlights
+
+- AXI4-Lite Protocol
+- Address Decoder
+- Peripheral Integration
+- Read/Write Channels
+- Handshake Logic
+- Verification
+
+**Stack:** `Verilog HDL` `AXI4-Lite`
+
+🔗 Repository:
+
+```text
+https://github.com/Shanmukh-patnala/AXI4-Lite-Multi-Peripheral-Slave
+```
+
+</details>
 
 ---
 
-# 📈 Skill Matrix
+# 🤖 AI & IoT Portfolio
 
-| Domain | Focus |
-|----------|----------|
-| VLSI & RTL | ⭐⭐⭐⭐⭐ |
-| Functional Verification | ⭐⭐⭐⭐ |
-| Processor Design | ⭐⭐⭐⭐ |
-| IoT Systems | ⭐⭐⭐ |
-| Python Development | ⭐⭐⭐ |
-| AI Applications | ⭐⭐⭐ |
+| Project | Tech Stack | Status |
+|:---|:---|:---|
+| LUNA AI Assistant | Python • APIs • Voice AI | ✅ |
+| AI Bank Management System | Python • JSON • APIs | ✅ |
+| Smart Battery Health Prediction | ESP32 • Python • IoT | ✅ |
+
+---
+
+# 🏆 Achievements
+
+- ✅ Designed a complete RV32I Processor
+- ✅ Developed Clock-Gated LBIST Architecture
+- ✅ Built AXI4-Lite Multi-Peripheral Slave
+- ✅ Published multiple open-source projects
+- ✅ Built AI and IoT applications
+- 📚 Learning SystemVerilog & UVM
+
+---
+
+# 📜 Certifications
+
+- VLSI SoC Design using Verilog HDL — Maven Silicon
+- FPGA Design Flow using Vivado
+- TCL Scripting
+- Business Ethics
+
+---
+
+# 📈 GitHub Dashboard
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmukh-patnala&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmukh-patnala&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shanmukh-patnala&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanmukh-patnala&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shanmukh-patnala&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmukh-patnala&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shanmukh-patnala/Shanmukh-patnala/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
@@ -188,47 +299,62 @@ Learning:
   - SystemVerilog
   - UVM
   - ASIC Verification
-  - Advanced RTL Design
 
 Building:
   - Tiny SoC with RISC-V
   - UVM Verification Environment
 
-Completed:
-  - PhoenixRV-32
-  - Clock-Gated LBIST
-  - AXI4-Lite Multi-Peripheral Slave
+Exploring:
+  - FPGA Design
+  - Low Power VLSI
+  - AI-Assisted Engineering
 
-Career Goal:
-  - RTL Design Engineer
-  - Functional Verification Engineer
+Open_To:
+  - RTL Design Internships
+  - Functional Verification Roles
+  - Open Source Collaboration
 ```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmukh-patnala&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmukh-patnala&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shanmukh-patnala&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
 # 🤝 Connect
 
-- GitHub: https://github.com/Shanmukh-patnala
-- LinkedIn: https://linkedin.com/in/leela-shanmukh
-- Email: leelashanmukh06@gmail.com
+<p align="center">
+
+<a href="mailto:leelashanmukh06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/leela-shanmukh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Shanmukh-patnala">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-> *"Engineering excellence is built through curiosity, discipline, and continuous learning."*
+# 💬 Quote
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,40:6D28D9,70:7C3AED,100:9333EA"/>
+
+> **"From RTL to silicon, engineering excellence is achieved through curiosity, precision, and relentless learning."**
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories.
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,25:312E81,50:5B21B6,75:7C3AED,100:A855F7"/>
+
 </p>
